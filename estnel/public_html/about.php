@@ -59,7 +59,7 @@
                     </h1>
                     <p>
                         ESTNEL MULTI CONCEPT LIMITED has a proven record over the short period, a brand name in construction industry known both globally and locally.<br>
-                        The company has been for discerning engaged in the area of Civil Engineering Construction Industry. These highly qualified and experienced persons are dedicated to render services to our clients at all times. The company employs over 20 people at more than 5 location and has attained a building performance output of over 20M Naira in the last 1 year.
+                        The company has been for discerning engaged in the area of Civil Engineering Construction Industry. These highly qualified and experienced persons are dedicated to render services to our clients at all times. The company employs over 20 people at more than 5 location and has attained a building performance output of over 20,000,000 Naira in the last 1 year.
                     </p>
                 </div>
                 <div class="w-40">
@@ -69,6 +69,7 @@
 
         </div>
         <?php require('./page_parts/PAGE_contact.php'); ?>
+        <?php require('./page_parts/PAGE_footer.php'); ?>
     </div>
 
     <?php require('page_parts/DOC_scripts.php'); ?>

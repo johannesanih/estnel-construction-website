@@ -2,6 +2,12 @@ $("document").ready(function () {
 
 let pageHeader = $("#page-header"), menuIcon = $("#menu-icon"), estSideMenu = $("#est-sideMenu"), sideMenuCancelButton = $("#sideMenu-cancel-button");
 
+let copyrightFooterDiv = $("#copyright-footer-div");
+let d = new Date();
+let currentYear = d.getFullYear();
+let copyrightString = "<h6>"+currentYear+" &copy; Estnel. All Rights Reserved."+"</h6>";
+copyrightFooterDiv.html(copyrightString);
+
 menuIcon.on('click', () => {
     estSideMenu.css({
         'display' : 'block'

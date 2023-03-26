@@ -99,6 +99,7 @@
 
         </div>
         <?php require('./page_parts/PAGE_contact.php'); ?>
+        <?php require('./page_parts/PAGE_footer.php'); ?>
     </div>
 
     <?php require('page_parts/DOC_scripts.php'); ?>

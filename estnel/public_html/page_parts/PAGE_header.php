@@ -14,7 +14,7 @@
         <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="index.php">Home</a></span>
             <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="projects.php">Project</a></span>
             <span class="my-2 btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="services.php">Services</a></span>
-            <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="about.php">About</a></span>
+            <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="about.php">About Us</a></span>
             <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="contact.php">Contact</a></span>
         </span>
     <span class="menu-btn" id="menu-icon">

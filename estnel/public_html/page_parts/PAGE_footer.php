@@ -11,9 +11,28 @@
                     </span>
                 </span>
             </a>
+            <p class="mx-3 my-5 p-0">
+                CORPORATE OFFICE:<br>
+                551, Agege Motor Road Ladipo By GRA, Ikeja Oshodi, Lagos Nigeria<br>
+                22, Johnson Street, Algbole Akute, Ogun State<br>
+                Tel: +2348066611025, +2348025384941<br>
+                <br>
+                RIVERS STATE OFFICE: <br>
+                30 Bodo Road Gra Phase li <bt>
+                Port Harcourt<br>
+                Tel: +2349092277854<br>
+            </p>
         </div>
         <div class="m-3">
-
+            <h4 class="text-white">Quick Links</h4>
+            <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="index.php">Home</a></span>
+            <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="projects.php">Project</a></span>
+            <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="services.php">Services</a></span>
+            <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="about.php">About Us</a></span>
+            <span class="btn btn-lg text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="contact.php">Contact</a></span>
         </div>
+    </div>
+    <div class="m-0 p-3 bg-danger text-white" id="copyright-footer-div">
+
     </div>
 </footer>

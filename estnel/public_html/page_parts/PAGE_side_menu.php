@@ -7,7 +7,7 @@
         <span class="my-2 d-block btn btn-lg btn-danger text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="index.php">Home</a></span>
         <span class="my-2 d-block btn btn-lg btn-danger text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="projects.php">Project</a></span>
         <span class="my-2 d-block btn btn-lg btn-danger text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="services.php">Services</a></span>
-        <span class="my-2 d-block btn btn-lg btn-danger text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="about.php">About</a></span>
+        <span class="my-2 d-block btn btn-lg btn-danger text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="about.php">About Us</a></span>
         <span class="my-2 d-block btn btn-lg btn-danger text-white bold"><a class="d-inline-block text-decoration-none text-white bold" href="contact.php">Contact</a></span>
     </div>
 </div>
