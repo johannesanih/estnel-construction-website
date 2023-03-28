@@ -37,6 +37,7 @@
         if(session_id() !== '' || isset($_COOKIE[session_name()])) {
             setcookie(session_name(), '', time()-2592000,'/');
             session_destroy();
+            return true;
         }
     }
 
@@ -229,7 +230,7 @@
     }
 
     function check_email_availability ($email, $dataTable) {
-        $email_check_result = db_select_secure("SELECT * FROM ".$dataTable." WHERE `email` = ?", $email, 's');
+        $email_check_result = db_select_secure("SELECT * FROM `".DB_NAME."`.`".$dataTable."` WHERE `email` = ?", $email, 's');
         if(isset($email_check_result['email'])) {
             $status = array(
                 'in_use' => true,

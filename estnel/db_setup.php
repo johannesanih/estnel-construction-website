@@ -13,4 +13,14 @@
         `date_sent` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP'
     );
 
+    db_create_table (
+        'admin_users',
+        '`id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+        `admin_name` VARCHAR(255) NOT NULL,
+        `email` VARCHAR(255) NOT NULL,
+        `password` VARCHAR(255) NOT NULL,
+        `active` ENUM("yes", "no") NOT NULL DEFAULT "no",
+        `date_created` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP'
+    );
+
 ?>
